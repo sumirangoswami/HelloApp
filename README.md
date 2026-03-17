@@ -1,4 +1,5 @@
 # HelloApp
+<<<<<<< HEAD
 
 HelloApp is a Java console application that demonstrates basic programming concepts step by step.
 
@@ -22,3 +23,6 @@ javac HelloApp.java NameManager.java
 
 Run:
 java HelloApp
+=======
+repository to host the source code and documentation of Hello App project
+>>>>>>> 3d1c977c55376b29bc2d953c171a4c3f5a609310
