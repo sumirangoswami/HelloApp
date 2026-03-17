@@ -46,7 +46,7 @@ public class HelloApp {
 
         sc.close();
     }
-}*/
+}
 import java.util.Scanner;
 public class HelloApp {
     public static void main(String[] args){
@@ -56,4 +56,11 @@ public class HelloApp {
         }
         System.out.println("Hello," + name + "!");
     }
-}
+}*/
+import java.util.Scanner;
+ public class HelloApp {
+    public static void main(String[] args){
+        System.out.println("Hello World!");
+    }
+ }
+
